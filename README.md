@@ -1,5 +1,5 @@
 # active-directory-vm-lab.
-Watch me build this lab here! https://www.loom.com/share/6eab6add6d634c349f933670a99b46cb
+Watch me build this lab here! [https://www.loom.com/share/6eab6add6d634c349f933670a99b46cb](https://www.loom.com/share/0196bc81631640ff8744a338a732610c)
 
 A hands on lab demonstrating the setup and configuration of Active Directory on a Windows Server VM.
 ## 🧩 Objective
